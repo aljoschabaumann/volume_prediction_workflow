@@ -1,15 +1,3 @@
-#!/usr/bin/env python3
-"""
-Structure Intercalation Tool
-============================
-Takes a single pymatgen structure and generates intercalated structures
-by inserting cations into available Wyckoff positions.
-
-Usage:
-    python intercalate_structure.py --input structure.pkl --output results.pkl
-    python intercalate_structure.py --input structure.pkl --cations Li Na K --verbose
-"""
-
 import pandas as pd
 import numpy as np
 import argparse
