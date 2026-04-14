@@ -1,4 +1,5 @@
-This repisotry stores the code used in the paper "High-Throughput-Screening Workflow for Predicting Volume Changes by Ion Intercalation in Battery Materials" (https://doi.org/10.1021/acsaem.5c03917). If you use any code of this repisotry, please consider citing the article: ACS Appl. Energy Mater. 2026, 9, 7, 3851–3860.
+This repisotry stores the code used in the paper "High-Throughput-Screening Workflow for Predicting Volume Changes by Ion Intercalation in Battery Materials" (https://doi.org/10.1021/acsaem.5c03917). If you use any code of this repisotry, please consider citing the article: 
+ACS Appl. Energy Mater. 2026, 9, 7, 3851–3860.
 
 insert_cations_structure.py – Generates all valid crystal structures formed by inserting specified cations into a single pymatgen structure, considering symmetry, Wyckoff positions, and distance constraints.
 
