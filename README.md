@@ -10,4 +10,4 @@ xgboost_model.json - XGBoost model that predicts the bond lengths based on the b
 
 predict_volume_change.py – Predicts the percentage volume change of a crystal structure during ion intercalation using iterative bond-length-based updates on atomic positions and lattice vectors.
 
-DOI: 10.5281/zenodo.24398697
+[![DOI](https://zenodo.org/badge/1038035096.svg)](https://doi.org/10.5281/zenodo.24398696)
