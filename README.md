@@ -9,3 +9,5 @@ featurize_structure.py – Generates atom-level and bond-level feature vectors f
 xgboost_model.json - XGBoost model that predicts the bond lengths based on the bond-level features. This model was trained and validated on a dataset of 3d-transition-metal oxide and fluorides and should only be used for applications on this material class.
 
 predict_volume_change.py – Predicts the percentage volume change of a crystal structure during ion intercalation using iterative bond-length-based updates on atomic positions and lattice vectors.
+
+DOI: 10.5281/zenodo.24398697
